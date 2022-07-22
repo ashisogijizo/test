@@ -51,7 +51,7 @@ function validate(e) {
 }
 async function sendForm() {
     var formData = new FormData(form);
-    let response = await fetch('http://test/server.php', {
+    let response = await fetch('https://harmonious-twilight-897f6f.netlify.app/server.php', {
         method: 'POST',
         body: formData
      });
