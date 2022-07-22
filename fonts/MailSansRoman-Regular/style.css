@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mail Sans Roman';
+    src: local('Mail Sans Roman Regular'), local('Mail-Sans-Roman-Regular'),
+        url('MailSansRoman-Regular.woff2') format('woff2'),
+        url('MailSansRoman-Regular.woff') format('woff'),
+        url('MailSansRoman-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
